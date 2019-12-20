@@ -1,0 +1,16 @@
+2019-12-19 19:10:57.949910 | Started DigitalSignage.exe.
+2019-12-19 19:10:57.949910 | Starting check loop...
+2019-12-19 19:10:57.949910 | Changing from firstrun state to slides state in 0 seconds, sleeping until then.
+2019-12-19 19:10:57.959969 | Starting doSlides(), typePath=slides.
+2019-12-19 19:12:05.887196 | Started checkTypes().
+2019-12-19 19:19:00.900833 | Started checkTypes().
+2019-12-19 19:19:39.991185 | Started checkTypes().
+2019-12-19 19:21:40.426857 | Started checkTypes().
+2019-12-19 19:21:57.071155 | Started checkTypes().
+2019-12-19 19:22:38.611270 | Started checkTypes().
+2019-12-19 19:23:00.091474 | Started checkTypes().
+2019-12-19 19:23:15.291384 | Started checkTypes().
+2019-12-19 19:23:15.291384 | Finished checkTypes().
+2019-12-19 19:24:46.091647 | Started checkTypes().
+2019-12-19 19:25:11.376471 | Started checkTypes().
+2019-12-19 19:25:11.388472 | Finished checkTypes().
