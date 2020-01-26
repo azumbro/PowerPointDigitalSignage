@@ -12,7 +12,6 @@ with open('DigitalSignageConfig.json') as f:
 
 def main():
     checkType()
-    exit()
     doLog("Started DigitalSignage")
     currentState = "firstrun"
     #Loop forever.
