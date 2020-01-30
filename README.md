@@ -13,6 +13,11 @@ PowerPoint Digital Signage makes it easy to run digital signage on any display, 
   - The PowerPoint Digital Signage program automatically refreshes slide set content as defined in the schedule without the user needing to access the signage computer.
 
 # Usage
+## Initial Setup
+## The Main Executable
+## The Config File
+## Slide Set Types & Expected Folder Structure
+## The Schedule File
 
 # Building Executable from Source
 - Must create executable on Windows
