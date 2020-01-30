@@ -20,10 +20,11 @@ PowerPoint Digital Signage makes it easy to run digital signage on any display, 
 ## The Schedule File
 
 # Building Executable from Source
-- Must create executable on Windows
-- Requires Python and PyInstaller (https://pyinstaller.readthedocs.io/en/stable/index.html) 
-- Command: ```pyinstaller  DigitalSignage.py --onefile```
-- The output exe created will appear in the ```dist``` folder
+- Executable must be created on a Windows computer (and not through WSL)
+- Requires Python (https://www.python.org/downloads/windows/) and PyInstaller (https://pyinstaller.readthedocs.io/en/stable/index.html) 
+- Command to create executable: ```pyinstaller  DigitalSignage.py --onefile```
+  - Must be run from the folder containing DigitalSignage.py
+- The output executable will appear in the ```dist``` folder
 
 # Change Log
 - 2019-12-19 | Version 1.0
