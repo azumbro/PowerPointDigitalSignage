@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Assets/PowerPointDigitalSignageLogo.png" width="50%;" style="margin: 0 auto;">
+<img src="Assets/PowerPointDigitalSignageLogo.png" width="40%;" style="margin: 0 auto;">
 </p>
 
 # Overview
