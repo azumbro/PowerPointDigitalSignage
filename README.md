@@ -27,4 +27,4 @@ PowerPoint Digital Signage makes it easy to run digital signage on any display, 
 
 # Change Log
 - 2019-12-19 | Version 1.0
-  - Initial Release
+  - Initial release
