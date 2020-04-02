@@ -2,7 +2,7 @@
 <img src="Assets/PowerPointDigitalSignageLogo.png" width="40%;" style="margin: 0 auto;">
 </p>
 
-PowerPoint Digital Signage makes it easy to run digital signage on any display, using the familiar PowerPoint software for signage creation. Paired with cloud storage (Dropbox, Google Drive, OndeDrive, etc) or a network file share, the PowerPoint Digital Signage program can run on any Windows computer and automatically sync slide sets that are edited on remote machines. This provides an easy-to-use digital signage system with a low point of entry.
+PowerPoint Digital Signage makes it easy to run digital signage on any display, using the familiar PowerPoint software for signage creation. Paired with cloud storage (Dropbox, Google Drive, OneDrive, etc) or a network file share, the PowerPoint Digital Signage program can run on any Windows computer and automatically sync slide sets that are edited on remote machines. This provides an easy-to-use digital signage system with a low point of entry.
 
 # Usage Overview
   - A Windows computer (called the "signage computer" below) is connected to a digital signage display. This can be a basic computer and any type of display (monitor, TV, etc). The computer must have PowerPoint 2013 or newer installed.
