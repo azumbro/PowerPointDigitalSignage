@@ -11,20 +11,9 @@ PowerPoint Digital Signage makes it easy to run digital signage on any display, 
   - Users create slide sets on remote computers and add them to the synced/shared location. They can also define a schedule for when to refresh slide sets or change between slide types.
   - The PowerPoint Digital Signage program automatically refreshes slide set content as defined in the schedule without the user needing to access the signage computer directly.
 
-# Usage Details
-## Initial Setup
-## The Main Executable
-## The Config File
-## Slide Set Types & Expected Folder Structure
-## The Schedule File
-
 # Building Executable from Source
 - Executable must be created on a Windows computer (and not through WSL)
 - Requires Python (https://www.python.org/downloads/windows/) and PyInstaller (https://pyinstaller.readthedocs.io/en/stable/index.html) 
 - Command to create executable: ```pyinstaller  DigitalSignage.py --onefile```
   - Must be run from the folder containing DigitalSignage.py
 - The output executable will appear in the ```dist``` folder
-
-# Change Log
-- 2019-12-19 | Version 1.0
-  - Initial release
