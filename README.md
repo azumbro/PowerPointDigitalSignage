@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Assets/PowerPointDigitalSignageLogo.png" width="40%;" style="margin: 0 auto;">
+<img src="https://zumbro.me/assets/images/PowerPointDigitalSignageLogo.png" width="40%;" style="margin: 0 auto;">
 </p>
 
 PowerPoint Digital Signage makes it easy to run digital signage on any display, using the familiar PowerPoint software for signage creation. Paired with cloud storage (Dropbox, Google Drive, OneDrive, etc) or a network file share, the PowerPoint Digital Signage program can run on any Windows computer and automatically sync slide sets that are edited on remote machines. This provides an easy-to-use digital signage system with a low point of entry.
